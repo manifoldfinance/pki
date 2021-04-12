@@ -7,16 +7,14 @@ version: 2021-04
 > code signing, pki & gpg/pgp
 
 == pgp keys
+https://keys.openpgp.org/vks/v1/by-fingerprint/858023A92C8DA82FB996BB37361D5A506F6EB43E
+```
+openpgp keyserver 
 
-Email addresses:  sam@freighttrust.com
-<br>
-[https://keys.openpgp.org/vks/v1/by-fingerprint/858023A92C8DA82FB996BB37361D5A506F6EB43E](https://keys.openpgp.org/vks/v1/by-fingerprint/858023A92C8DA82FB996BB37361D5A506F6EB43E
-)
-[openpgp keyserver](https://keys.openpgp.org/search?q=sam%40freighttrust.com)
-<br>
 Added on Jan 9, 2021
+```
 
-Key ID: 3858023A92C8DA82FB996BB37361D5A506F6EB43E - January 2nd 2021
+`Key ID: 3858023A92C8DA82FB996BB37361D5A506F6EB43E - January 2nd 2021`
 
 === Keyservers
 ```bash
@@ -40,7 +38,7 @@ Created: June 3, 2020 at 10:43 PM <br>
 Expires: June 3, 2024 at 10:43 PM <br>
 
 
-## Software Defects
+== Software Defects
 
 At CommodityStream LLC, security is a priority. But regardless of
 how much effort we put into system security, there may still be
@@ -49,7 +47,7 @@ know about it so we can take steps to address it as quickly as possible.
 We would like to ask you to help us better protect our clients and our
 systems.
 
-## Defect Response
+== Defect Response
 
 If you think you have discovered a security issue in any of the
 our projects, we’d love to hear from you. We will take all
