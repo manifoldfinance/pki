@@ -23,20 +23,6 @@ keyserver wwwkeys.nl.pgp.net
 keyserver keys.openpgp.org
 ```
 
-#### Additional Keys
-
-sam bacha <sam@freighttrust.com> (361D5A506F6EB43E)
-
-#### Fingerprint
-
-C00B 2090 F23C 5629 0291  11CB F5D2 A721 6C51 FB94   <br>
-Created: June 16, 2020 at 1:37 AM <br>
-Expires: August 29, 2022 at 1:37 AM <br>
-<br>
-BFC5 0E69 46A2 C69A C56C  3F25 E6D9 D510 8DFF FDF8 <br>
-Created: June 3, 2020 at 10:43 PM <br>
-Expires: June 3, 2024 at 10:43 PM <br>
-
 
 == Software Defects
 
