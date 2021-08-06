@@ -1,0 +1,37 @@
+{
+    "canary": {
+        "domain": "manifoldfinance.com",
+        "pubkeys": [
+            "rSjmmcbV+Doi+Idj65L0yTgF7VJxWsAfugAiMwB66y8="
+        ],
+        "panickey": "fC8oyXIEL0M/PBc3WMPZiFWNcRinUyU9e9uQ/Cj+xCI=",
+        "version": "0.1",
+        "release": "2021-08-05T18:53:50-07:00",
+        "expiry": "2021-09-04T18:53:51-07:00",
+        "freshness": "00000000000000000007b85673189e48a3df1ca0066758b39d1970ce2f96f45b",
+        "codes": [
+            "raid",
+            "seize",
+            "xopers",
+            "war",
+            "duress",
+            "trap",
+            "cease",
+            "xcred",
+            "gag",
+            "subp"
+        ]
+    },
+    "signatures": {
+        "rSjmmcbV+Doi+Idj65L0yTgF7VJxWsAfugAiMwB66y8=": {
+            "domain": "oxxtvU4HFXsjhiKSH9sGGafAPpxwzIZCDkAbcONGX1srOp4USd54t1h0t8LglXhFqnQbCSNF6nkmR6Sfi/ZCBg==",
+            "pubkeys": "gB8ecyVedYqEOOaDkFjKVN/ytupFZuZdd+HS0Z0eRJ5hFajhDP8SSjWGSvCW/a+LNUF7EyCB1B5m/jqOEk3zBw==",
+            "panickey": "m3RYEMlm4fBl9kPek0CdDbd2nWhYO//yazU1g+tF6CaBlCcXI1UD3Q3RXbEM7DxIcq6YxNoewFlVTg20xFKRAg==",
+            "version": "mGrWtLcrmFE4DFXTcHrDNuyX4cs+W8rLBpfaMnZ0ezmyXYkC8q+3oe8urEpyHHAnNF1Dc6nF2w1UUPV5hYm4BQ==",
+            "release": "LQ2VnBnDTlyY7+Htwkaq/rqALKNHwFWHficJFKDIbrPIjqpD7W+X1R/rF8TTavsVByKW2R8w7ZyZ5DfAXHe/AQ==",
+            "expiry": "3STZX3XTks7pDhCPuprg+8TElRUWpByF8vBIHVbZ40stZ4FyFS7g+3zRXJnznCTODgqL8QcI7TpcbYTcJO9WCw==",
+            "freshness": "/VHu3uPoZtVk7+PmbI68jI0nVLSe1Sz+aQxqhHY9x6p6fCoYvJEMUV/21Q+KGPsVuj022hUwtZSzK0UVXQQ/Cg==",
+            "codes": "fjowWLPXdULmZCyzGhbo3yVu3eVi2slqfF/qtpB0d+tveg3EWxDmCkSgdn0G+jpcbR8VVXOa8REdB6XwaRPdBA=="
+        }
+    }
+}
