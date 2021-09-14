@@ -48,7 +48,9 @@ security bulletin discussing the impact and credit the discoverer.
 - Attempting to Extort or otherwise force monetary compensation is not
   the best way to receive a bug bounty. If the defect is legitmate we
   will provide compensation so long as any report includes a
-  remediation solution only.
+  remediation solution only. 
+  
+- Remediation includes mitigation solutions, etc. It is not strictly a 'fix'
 
 - We will NOT disclose to other parties, e.g. colleagues at your
   employer, unless you wish us to.
