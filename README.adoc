@@ -1,28 +1,22 @@
 ---
 title: PKI and Software Defects Policy
 description: Security and Operations Responsible Disclosure Statement.
-version: 2021-07
+version: 2021-09
 ---
 
 > code signing, pki & gpg/pgp
 
 == pgp keys
-https://keys.openpgp.org/vks/v1/by-fingerprint/8F6C004E520C88299E031769B098F10AF1E61D25
+link:https://raw.githubusercontent.com/manifoldfinance/pki/master/0D270196.asc
 ```
-openpgp keyserver 
+Key ID: `DAE AEA8 742B C626 5E4D  2470 586C 53C9 0D27 0196` - Sept. 13, 2021'
 
-Added on July 25, 2021
-```
-
-`Key ID: 3858023A92C8DA82FB996BB37361D5A506F6EB43E - January 2nd 2021`
-
-=== Keyservers
-```bash
-keyserver hkp://zkaan2xfbuxia2wpf7ofnkbz6r5zdbbvxbunvp5g2iebopbfc4iqmbad.onion
-keyserver wwwkeys.nl.pgp.net
-keyserver keys.openpgp.org
+Added on Sept. 13, 2021
 ```
 
+=== Well Known
+
+https://github.com/manifoldfinance/.well-known
 
 == Software Defects
 
