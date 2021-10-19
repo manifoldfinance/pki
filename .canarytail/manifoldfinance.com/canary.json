@@ -1,37 +1,24 @@
 {
     "canary": {
-        "domain": "manifoldfinance.com",
-        "pubkeys": [
-            "rSjmmcbV+Doi+Idj65L0yTgF7VJxWsAfugAiMwB66y8="
-        ],
-        "panickey": "fC8oyXIEL0M/PBc3WMPZiFWNcRinUyU9e9uQ/Cj+xCI=",
+        "domain": "manifoldfinnace.eth",
+        "pubkeys": ["NSwyNDcsODUsMjEwLDEyNywxMDksNjIsMTkwLDc1LDAsMTA1LDE5LDE3MCwyMTUsMTU1LDExNiwyMzMsODgsMTI3LDE1MywxNjMsMTYwLDQ3LDYzLDE1MywzNywyMjQsMjQ2LDE3MCw5MCwxNDgsMTEx"],
+        "panickey": "Nyw1NSwxMjksMjU1LDQ4LDM3LDI1MSwxMDYsMTc5LDQzLDEzMSwxNCw1MywyMTksMzYsMjQxLDE5MywxNjUsMTM0LDEyMiw2MCwxNjYsMTk3LDE2NSwxNzcsMTg1LDMsMjE1LDE4MCwyNSwyMCw3MQ==",
+        "freshness": "000000000000000000059d1e94dc2c549048eb6a77c5814e498329dd991ad0b2",
         "version": "0.1",
-        "release": "2021-08-05T18:53:50-07:00",
-        "expiry": "2021-09-04T18:53:51-07:00",
-        "freshness": "00000000000000000007b85673189e48a3df1ca0066758b39d1970ce2f96f45b",
-        "codes": [
-            "raid",
-            "seize",
-            "xopers",
-            "war",
-            "duress",
-            "trap",
-            "cease",
-            "xcred",
-            "gag",
-            "subp"
-        ]
+        "release": "2021-10-19T23:22:55Z",
+        "expiry": "2022-12-31T00:00:00Z",
+        "codes": ["war", "gag", "subp", "trap", "cease", "duress", "raid", "seize", "xcred", "xopers"]
     },
     "signatures": {
-        "rSjmmcbV+Doi+Idj65L0yTgF7VJxWsAfugAiMwB66y8=": {
-            "domain": "oxxtvU4HFXsjhiKSH9sGGafAPpxwzIZCDkAbcONGX1srOp4USd54t1h0t8LglXhFqnQbCSNF6nkmR6Sfi/ZCBg==",
-            "pubkeys": "gB8ecyVedYqEOOaDkFjKVN/ytupFZuZdd+HS0Z0eRJ5hFajhDP8SSjWGSvCW/a+LNUF7EyCB1B5m/jqOEk3zBw==",
-            "panickey": "m3RYEMlm4fBl9kPek0CdDbd2nWhYO//yazU1g+tF6CaBlCcXI1UD3Q3RXbEM7DxIcq6YxNoewFlVTg20xFKRAg==",
-            "version": "mGrWtLcrmFE4DFXTcHrDNuyX4cs+W8rLBpfaMnZ0ezmyXYkC8q+3oe8urEpyHHAnNF1Dc6nF2w1UUPV5hYm4BQ==",
-            "release": "LQ2VnBnDTlyY7+Htwkaq/rqALKNHwFWHficJFKDIbrPIjqpD7W+X1R/rF8TTavsVByKW2R8w7ZyZ5DfAXHe/AQ==",
-            "expiry": "3STZX3XTks7pDhCPuprg+8TElRUWpByF8vBIHVbZ40stZ4FyFS7g+3zRXJnznCTODgqL8QcI7TpcbYTcJO9WCw==",
-            "freshness": "/VHu3uPoZtVk7+PmbI68jI0nVLSe1Sz+aQxqhHY9x6p6fCoYvJEMUV/21Q+KGPsVuj022hUwtZSzK0UVXQQ/Cg==",
-            "codes": "fjowWLPXdULmZCyzGhbo3yVu3eVi2slqfF/qtpB0d+tveg3EWxDmCkSgdn0G+jpcbR8VVXOa8REdB6XwaRPdBA=="
+        "NSwyNDcsODUsMjEwLDEyNywxMDksNjIsMTkwLDc1LDAsMTA1LDE5LDE3MCwyMTUsMTU1LDExNiwyMzMsODgsMTI3LDE1MywxNjMsMTYwLDQ3LDYzLDE1MywzNywyMjQsMjQ2LDE3MCw5MCwxNDgsMTEx": {
+            "domain": "Yjc2OTdlYWQxZGI2ZDIxM2IwMDU2Zjg5YTRiY2E5NjBhMDRhNTdiNmI3MTBhMGIwMDZhNDIzZjNjMDViODdjOWI1MWE2YzJlMjIzNjU3Y2NhMzBiYTliYmMyNDc0NWM1ZWYwNjMzYzUxNzZjOTk2MzY1MTJjNWE3YWU1YWQxMGQ=",
+            "pubkeys": "NWRhMmM2ODdjODBmN2Y4ZWE2NTY0NGI5ZjBkZTFhOTA4NjY4YWE1MTdlMTZjNGNiMzNkMzk1ZmZmN2ZiNmQ4Mjk0YWRkY2JhYTg3MzU3YzVlNjJmNjhiNGVmMTkwNDdhODExYzdjMTUzOWQyZmRhMTExMDkzODVmZmU1ODc0MGE=",
+            "panickey": "NDcxZDdhNmM4NTMwMTlmNjkyZDkyYTgwZmFlZjJhNDcyNmE2ZWFhM2I4ZjM1NDE1MzNhOTM5YTUxOTNjZjFkN2FmYmM0MGIwZGRhMmYyOGZiYWVjYWMyYTgxNjI2Nzk4MDZhYjIwMTQwNmNkNGU4MzRlNWIyZDAyZmI1M2RlMDc=",
+            "freshness": "NjZjYzQyZTA0Y2U2ZjA1MjVlMDNhYTJhNzIwODA1ZDliYjAwNTRiMmMzM2JlZWE1M2YzNDlmMWZlYjA4YmIyYTJjYmEzMDlhZDNjOWM1ZTFjNjVkN2VjYzBlOTMzNGM4ZmQ5N2VjNTZlNjM4NGVmYjg4NmE0ODhkZWFlMmI2MDk=",
+            "version": "OGQ3MWFkYjQ2MDZmNWUzZDkzMjY3MmM5NzQ3YTkyMmY0ZDIzYjYzNDg2YmY5NWJhNDQxODJiNDhkOWE2MDhiYmExNDE1MmExYTgwYTg3NGZmYTJmYWQwMGUwOTg2MTIzNDY4NzMxNmJlMmIyNTIwNDE1MmY5ODJmZDY5NjNhMGI=",
+            "release": "OGUxMjg2YzRhODZiYTYzMThiYjZmMjRmNjQ4MDQxM2U4ODcxZmQ3YzljZTlhY2I3ZTA3ZTUyNDRhMTg4ODljZGVkNTczYTAyZTdlMTQ1NmUyMDc2MTYyOWYwOWUyYmNkYzE2NWM0MTllMWFlNGQ5YjI2NDc0OGVmYTA5Y2E1MGI=",
+            "expiry": "MTZhZDNjYjBlOTMxMTliZTVjMWM5ODJhYzhlMGRmMzhjMWJkMDgyMmMxNTI5MzBlNDRhODBkNjllODZiZjdlZDExYmNiNWRjZTY3MGM3MWZiOTExMDM4Y2EyNDJhMGM3MDU5ZmJlYjQzMzZmMjhmNGQyMjU5MzEwZDlkNDQ4MDI=",
+            "codes": "NzdiYTJlYTExMDc2ZmRiMmY2NTQxZWQxYzY0YTAwMTY0ODk4N2Y3MTdmODdjOWZlYmYwZjE0ZjQ3ZmY5OGYzNWIwNzYyMDgzOTFiMDgyYTI4OWNhZTc5YWJjMDhhNmQzMThhNmQyYTgwYzdjZmZjZDJiODAxNjIzMTQ5ZjhmMGQ="
         }
     }
 }
