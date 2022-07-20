@@ -21,7 +21,7 @@ https://github.com/manifoldfinance/.well-known
 
 == Software Defects
 
-At CommodityStream LLC, security is a priority. But regardless of
+At CommodityStream Inc, security is a priority. But regardless of
 how much effort we put into system security, there may still be
 vulnerabilities present. If you discover a vulnerability, we want to
 know about it so we can take steps to address it as quickly as possible.
@@ -62,14 +62,14 @@ security bugs is detailed below:
 1.  The person discovering the issue, the reporter, reports the
     vulnerability privately to
 
-`security@manifoldfinance.com ops@manifoldfinance.com`
+`sam@manifoldfinance.com / ops@manifoldfinance.com`
 
 1.  Messages that do not relate to the reporting or managing of an
     undisclosed security vulnerability in our software are ignored and
     no further action is required.
 
 2.  The project team sends an e-mail to the original reporter to
-    acknowledge the report.
+    acknowledge the report within 12 hours.
 
 3.  The project team investigates report and either rejects it or
     accepts it.
@@ -81,11 +81,7 @@ security bugs is detailed below:
     to let them know it is accepted and that they are working on a fix.
 
 6.  The project team requests a CVE number from security at
-    manifoldfinance.com by sending an e-mail with the subject “CVE request
-    for…” and providing a short (one line) description of the
-    vulnerability. Guidance is available to determine if a report
-    requires multiple CVEs or if multiple reports should be merged under
-    a single CVE.
+    manifoldfinance.com by logging a request at: https://github.com/manifoldfinance/defi-threat
 
 7.  The project team agrees the fix on their private list.
 
@@ -93,8 +89,7 @@ security bugs is detailed below:
     draft vulnerability announcement for comment.
 
 9.  The project team agrees to the fix, the announcement and the release
-    schedule with the reporter. For an example of an announcement see
-    Tomcat’s announcement of CVE-2021-0000. The level of detail to
+    schedule with the reporter. The level of detail to
     include in the report is a matter of judgement. Generally, reports
     should contain enough information to enable people to assess the
     risk associated with the vulnerability for their system and no more.
@@ -118,7 +113,7 @@ security bugs is detailed below:
 
     2.  the vulnerability reporter
 
-    3.  our github.com/\manifoldfinance/.github
+    3.  github.com/manifoldfinance/defi-threat
 
 == Format
 
@@ -146,6 +141,5 @@ Submissions should be in the following format
 === Point of Contract
 
 contact: pgp
-contact: security@manifoldfinance.com
-contract: sam@manifoldfinance.com 
-
+contact: sam@manifoldfinance.com 
+telegram: @sambacha
