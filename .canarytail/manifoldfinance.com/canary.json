@@ -1,24 +1,44 @@
 {
+    "version": "0.1",
     "canary": {
-        "domain": "manifoldfinnace.eth",
-        "pubkeys": ["NSwyNDcsODUsMjEwLDEyNywxMDksNjIsMTkwLDc1LDAsMTA1LDE5LDE3MCwyMTUsMTU1LDExNiwyMzMsODgsMTI3LDE1MywxNjMsMTYwLDQ3LDYzLDE1MywzNywyMjQsMjQ2LDE3MCw5MCwxNDgsMTEx"],
-        "panickey": "Nyw1NSwxMjksMjU1LDQ4LDM3LDI1MSwxMDYsMTc5LDQzLDEzMSwxNCw1MywyMTksMzYsMjQxLDE5MywxNjUsMTM0LDEyMiw2MCwxNjYsMTk3LDE2NSwxNzcsMTg1LDMsMjE1LDE4MCwyNSwyMCw3MQ==",
-        "freshness": "000000000000000000059d1e94dc2c549048eb6a77c5814e498329dd991ad0b2",
-        "version": "0.1",
-        "release": "2021-10-19T23:22:55Z",
-        "expiry": "2022-12-31T00:00:00Z",
-        "codes": ["war", "gag", "subp", "trap", "cease", "duress", "raid", "seize", "xcred", "xopers"]
+        "domain": "securerpc.com",
+        "min_signers": 1,
+        "pubkeys": [
+            {
+                "role": "author",
+                "name": "author",
+                "key": "3Hw6Zesl59qPDHBFr6H25DAKcHJreTnWCuCsKooklr0=",
+                "required": true
+            }
+        ],
+        "panickey": "wIAOjOyHohleWQ/Zl/2k2ZfRd5A6EmYtleP74xex38A=",
+        "release": "2022-07-21T17:16:00-07:00",
+        "expiry": "2022-08-20T17:16:03-07:00",
+        "freshness": "000000000000000000042dbb9b651afbd72b5d0ad1a2f7fd61ac5c9e8c201e20",
+        "codes": [
+            "trap",
+            "cease",
+            "xcred",
+            "xopers",
+            "raid",
+            "seize",
+            "war",
+            "gag",
+            "subp",
+            "duress"
+        ]
     },
     "signatures": {
-        "NSwyNDcsODUsMjEwLDEyNywxMDksNjIsMTkwLDc1LDAsMTA1LDE5LDE3MCwyMTUsMTU1LDExNiwyMzMsODgsMTI3LDE1MywxNjMsMTYwLDQ3LDYzLDE1MywzNywyMjQsMjQ2LDE3MCw5MCwxNDgsMTEx": {
-            "domain": "Yjc2OTdlYWQxZGI2ZDIxM2IwMDU2Zjg5YTRiY2E5NjBhMDRhNTdiNmI3MTBhMGIwMDZhNDIzZjNjMDViODdjOWI1MWE2YzJlMjIzNjU3Y2NhMzBiYTliYmMyNDc0NWM1ZWYwNjMzYzUxNzZjOTk2MzY1MTJjNWE3YWU1YWQxMGQ=",
-            "pubkeys": "NWRhMmM2ODdjODBmN2Y4ZWE2NTY0NGI5ZjBkZTFhOTA4NjY4YWE1MTdlMTZjNGNiMzNkMzk1ZmZmN2ZiNmQ4Mjk0YWRkY2JhYTg3MzU3YzVlNjJmNjhiNGVmMTkwNDdhODExYzdjMTUzOWQyZmRhMTExMDkzODVmZmU1ODc0MGE=",
-            "panickey": "NDcxZDdhNmM4NTMwMTlmNjkyZDkyYTgwZmFlZjJhNDcyNmE2ZWFhM2I4ZjM1NDE1MzNhOTM5YTUxOTNjZjFkN2FmYmM0MGIwZGRhMmYyOGZiYWVjYWMyYTgxNjI2Nzk4MDZhYjIwMTQwNmNkNGU4MzRlNWIyZDAyZmI1M2RlMDc=",
-            "freshness": "NjZjYzQyZTA0Y2U2ZjA1MjVlMDNhYTJhNzIwODA1ZDliYjAwNTRiMmMzM2JlZWE1M2YzNDlmMWZlYjA4YmIyYTJjYmEzMDlhZDNjOWM1ZTFjNjVkN2VjYzBlOTMzNGM4ZmQ5N2VjNTZlNjM4NGVmYjg4NmE0ODhkZWFlMmI2MDk=",
-            "version": "OGQ3MWFkYjQ2MDZmNWUzZDkzMjY3MmM5NzQ3YTkyMmY0ZDIzYjYzNDg2YmY5NWJhNDQxODJiNDhkOWE2MDhiYmExNDE1MmExYTgwYTg3NGZmYTJmYWQwMGUwOTg2MTIzNDY4NzMxNmJlMmIyNTIwNDE1MmY5ODJmZDY5NjNhMGI=",
-            "release": "OGUxMjg2YzRhODZiYTYzMThiYjZmMjRmNjQ4MDQxM2U4ODcxZmQ3YzljZTlhY2I3ZTA3ZTUyNDRhMTg4ODljZGVkNTczYTAyZTdlMTQ1NmUyMDc2MTYyOWYwOWUyYmNkYzE2NWM0MTllMWFlNGQ5YjI2NDc0OGVmYTA5Y2E1MGI=",
-            "expiry": "MTZhZDNjYjBlOTMxMTliZTVjMWM5ODJhYzhlMGRmMzhjMWJkMDgyMmMxNTI5MzBlNDRhODBkNjllODZiZjdlZDExYmNiNWRjZTY3MGM3MWZiOTExMDM4Y2EyNDJhMGM3MDU5ZmJlYjQzMzZmMjhmNGQyMjU5MzEwZDlkNDQ4MDI=",
-            "codes": "NzdiYTJlYTExMDc2ZmRiMmY2NTQxZWQxYzY0YTAwMTY0ODk4N2Y3MTdmODdjOWZlYmYwZjE0ZjQ3ZmY5OGYzNWIwNzYyMDgzOTFiMDgyYTI4OWNhZTc5YWJjMDhhNmQzMThhNmQyYTgwYzdjZmZjZDJiODAxNjIzMTQ5ZjhmMGQ="
+        "3Hw6Zesl59qPDHBFr6H25DAKcHJreTnWCuCsKooklr0=": {
+            "domain": "TeVMNCznwUVSc8e6OA7ChS4XV5vQwjsT4OrFaOSC8MQzzIPnPa7+hplS/fJ9psscDGwe0uTJAjqJ/tq9qaHYDA==",
+            "min_signers": "IGlsYH8VIEob++X9SRg3rdAqndVm6Jw7hx+nSfAwAFyXL8vIWbtaKI3tYPZMkCtdIfuAutQ59sz7ZGkY4ovFCQ==",
+            "pubkeys": "oIbVR//YTtfh3ALyTiAy1hQB9uuIPkgDTG2TC3VhNax7FtaK7Qjp/ZcejR4CRyGVnr90y3EjLCA8bu/gUOyvDw==",
+            "panickey": "9uiOnPTEOee4QixG3PIQVfvSxQ+hhMKSVu3Dh5wU/f3lgMXpqyPvkFrP/wk/jUOGxwfnoV3+zULizqtgMBT4Cg==",
+            "version": "jwelevCzNwhltm0BJMdtgNUUyx4KPo+br1Zu5SGUmYxQli8ySsaNd+lc0DPTzSrWFgM5/E39loX6AKhz2wfZAQ==",
+            "release": "/mn37AhPowV65mya8q3oaIE5g78Y6FeZk4fQtz697hOrOEMvivUCYeXd3X/Sec9BjsGFARmjwPx7oDXD7dFjCw==",
+            "expiry": "xho0ucrd0grWHOpZCmLINwLR7eA9XvtBa3Ey/FHHbgZ4KcxRupwYzgZ4ASwtIoecmHeiMssUA0Z4QtDjPZUACA==",
+            "freshness": "Is5lDooF5BHeHUd59pBXi4LtvdZimUTJ8XX/CtxMiIRZ/RdOVvw2MOzWqaR1J5OFEhn/ipC04extm5mEbmmjDQ==",
+            "codes": "kq5xPg/ByLy39gc42IVsWh3ZSawrrsz4laX74T1NL9MDEkkJ5wmOAYmXCrEKSHoaS3JCh0gIVC143VoxTwjDDg=="
         }
     }
 }
